@@ -1,5 +1,4 @@
 --- 
-
 name: Georges_Clemenceau_par_Aristide_Delannoy
 media_type: image
 
@@ -11,5 +10,4 @@ source: Wikipedia
 
 _path: /media_files/images/Georges_Clemenceau_par_Aristide_Delannoy.jpg 
 layout: media_description
-
 --- 
