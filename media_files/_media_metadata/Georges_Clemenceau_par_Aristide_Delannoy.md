@@ -9,7 +9,7 @@ creator: Georges Clemenceau
 _date: 1908
 source: Wikipedia
 
-_path: /media_files/images/emperornapoleon.jpg 
+_path: /media_files/images/Georges_Clemenceau_par_Aristide_Delannoy.jpg 
 layout: media_description
 
 ---
