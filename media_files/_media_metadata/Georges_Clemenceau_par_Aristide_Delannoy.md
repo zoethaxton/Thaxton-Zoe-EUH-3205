@@ -2,12 +2,12 @@
 name: George_ Clemenceau_par_Aristide_Delannoy
 media_type: image
 
-_title: Napoleon ler en costume du Sacre
-description: Napoleon as the Emperor of France
-creator: Francois Gerard
-_date: 1805
+_title: Georges Clemenceau vu par Aristide Delannoy, Les Hommes du jour, 1908
+description: skull on spear
+creator: Georges Clemenceau
+_date: 1908
 source: Wikipedia
 
-_path: /media_files/images/emperornapoleon.jpg 
+_path: /media_files/images/George_ Clemenceau_par_Aristide_Delannoy.jpg 
 layout: media_description
 ---
