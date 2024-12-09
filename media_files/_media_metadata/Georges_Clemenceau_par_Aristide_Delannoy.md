@@ -1,5 +1,5 @@
 ---
-name: EmperorNapoleon
+name: George_ Clemenceau_par_Aristide_Delannoy
 media_type: image
 
 _title: Napoleon ler en costume du Sacre
