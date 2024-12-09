@@ -16,6 +16,9 @@ Karl Marx and Friedrich Engels, Manifesto of the Communist Party (Moscow: Progre
 
 Karl Marx, 18th Brumaire of Louis Napoleon (Moscow: Progress Publishers, 1852; The Marxists Internet Archive).
 
+Young, Arthur. Book of account of travels in France during the years 1787, 1788, and 1789, 1792. In Readings in European History, edited by J.H. Robinson. Boston. 1906.
+(https://history.hanover.edu/texts/young.html)
+
 
 ## Secondary Sources
 
