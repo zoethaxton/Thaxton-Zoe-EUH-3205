@@ -1,6 +1,6 @@
 ---
 
-name: GeorgeClemenceau2
+name: GeorgeClemenceau
 media_type: image
 
 _title: Georges Clemenceau vu par Aristide Delannoy, Les Hommes du jour, 1908
@@ -9,7 +9,7 @@ creator: Georges Clemenceau
 _date: 1908
 source: Wikipedia
 
-_path: /media_files/images/GeorgesClemenceau2.jpg 
+_path: /media_files/images/GeorgesClemenceau.jpg 
 layout: media_description
 
 ---
