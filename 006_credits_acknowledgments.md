@@ -5,4 +5,5 @@ number: 6
 ---
 
 # Credits and Acknowledgments
-Dr. Goodwin, UF History Department, University of Florida
+
+We would like to extend our thanks to our professor, Dr. Christopher Goodwin, and the University of Florida History Department for facilitating and encouraging this project
