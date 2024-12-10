@@ -1,4 +1,5 @@
 ---
+
 name: GeorgeClemenceauparAristideDelannoy
 media_type: image
 
@@ -10,4 +11,5 @@ source: Wikipedia
 
 _path: /media_files/images/GeorgeClemenceauparAristideDelannoy.jpg 
 layout: media_description
+
 ---
