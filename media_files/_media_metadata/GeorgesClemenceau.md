@@ -9,7 +9,7 @@ creator: Georges Clemenceau
 _date: 1908
 source: Wikipedia
 
-_path: /media_files/images/GeorgeClemenceau.jpg 
+_path: /media_files/images/GeorgesClemenceau.jpg 
 layout: media_description
 
 ---
