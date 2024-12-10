@@ -10,4 +10,5 @@ source: Wikipedia
 
 _path: /media_files/images/WomanHairCut.jpg 
 layout: media_description
+
 ---
