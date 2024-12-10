@@ -8,6 +8,6 @@ creator: Georges Clemenceau
 _date: 1908
 source: Wikipedia
 
-_path: /media_files/images/George_ Clemenceau_par_Aristide_Delannoy.jpg 
+_path: /media_files/images/GeorgeClemenceauparAristideDelannoy.jpg 
 layout: media_description
 ---
