@@ -1,5 +1,5 @@
 ---
-name: George_ Clemenceau_par_Aristide_Delannoy
+name: GeorgeClemenceauparAristideDelannoy
 media_type: image
 
 _title: Georges Clemenceau vu par Aristide Delannoy, Les Hommes du jour, 1908
